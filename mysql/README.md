@@ -1,11 +1,11 @@
-# MySQL Test
+# MySQL Tests
 
-## This is a MySQL Test
+## This is a Catalog of Tests and Challenges for MySQL
 
-1. Question 1
+1. MySQL Analytics Challenge
 
-2. Question 2
+2. MySQL Installation Challenge
 
-3. Challange 1
+3. MySQL Tunning Challenge
 
-4. Challange 2
+4. MySQL Simple Question Test
